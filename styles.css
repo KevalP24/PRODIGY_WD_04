@@ -13,7 +13,7 @@ h3 {
 }
 
 #pagetop {
-  background-image: url(/images/bgimg.avif);
+  background-image: url("images/bgimg.avif");
   background-size: cover;
   background-position: center;
   color: #0b0c10;
